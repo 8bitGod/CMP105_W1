@@ -21,4 +21,9 @@ private:
 
 	sf::RectangleShape rect;
 	sf::CircleShape circle;
+	sf::RectangleShape rect2;
+	sf::RectangleShape rect3;
+	sf::Text title;
+	sf::Font font;
+	
 };
